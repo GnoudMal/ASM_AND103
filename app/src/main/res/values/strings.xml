@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment_Ph45308</string>
+    <string name="txtRegister"><u>Register</u></string>
+    <string name="txtSignIn"><u>SignIn</u></string>
+    <string name="txtReset"><u>Reset</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
